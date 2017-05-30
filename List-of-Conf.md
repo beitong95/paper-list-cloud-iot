@@ -1,13 +1,15 @@
 # List of Conferences
 
-1. Cloud General
-  - SoCC
-  - HotCloud
-  - IC2E
-  - CCGRID
-  - CLOUD, CLOUDCOM, UCC
+Cloud General
+------
+  1. SoCC
+  2. HotCloud
+  3. IC2E
+  4. CCGRID
+  5. CLOUD, CLOUDCOM, UCC
     
-2. System
+System
+------
   - NSDI
   - ATC
   - Eurosys
@@ -20,15 +22,19 @@
   - VEE
   - IMC
    
-3. Web
+Web
+------
   - WWW
   
-4. Distributed Systems
+Distributed Systems
+------
   - HPDC
   - SC
   - IPDPS/ICDCS?
   
-5. BigData
+BigData
+------
+
   - Sigmod
   - VLDB
   - CIDR
