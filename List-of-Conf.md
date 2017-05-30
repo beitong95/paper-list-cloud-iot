@@ -38,7 +38,7 @@ Fog Computing
 1. SEC
 2. Mobidata 2015 (Workshop) -- A Survey of Fog Computing: Concepts, Applications and Issues.
 
-\tThis paper describes.
+  This paper describes.
 
 3. Test
 
@@ -46,7 +46,5 @@ Fog Computing
  
  
 99. Others
-  - JPDC -- 2015 -- [Big Data computing and clouds: Trends and future directions]
- 
-[Big Data computing and clouds: Trends and future directions]: http://www.sciencedirect.com/science/article/pii/S0743731514001452
+  - JPDC -- 2015 -- [Big Data computing and clouds: Trends and future directions] (http://www.sciencedirect.com/science/article/pii/S0743731514001452
  
