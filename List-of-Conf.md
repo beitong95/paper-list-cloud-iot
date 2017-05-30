@@ -46,5 +46,5 @@ Fog Computing
  
  
 99. Others
-  - JPDC -- 2015 -- [Big Data computing and clouds: Trends and future directions] (http://www.sciencedirect.com/science/article/pii/S0743731514001452
+  - JPDC -- 2015 -- [Big Data computing and clouds: Trends and future directions](http://www.sciencedirect.com/science/article/pii/S0743731514001452)
  
