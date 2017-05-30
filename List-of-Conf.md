@@ -35,8 +35,12 @@
 
 6. Fog Computing
   - SEC
+  - Mobidata 2015 (Workshop) -- A Survey of Fog Computing: Concepts, Applications and Issues
+
  
  
 99. Others
-  1. 
+  - JPDC -- 2015 -- Big Data computing and clouds: Trends and future directions (https://www.google.com)
+  - 
+
  
