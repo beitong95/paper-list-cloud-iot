@@ -33,9 +33,10 @@
   - VLDB
   - CIDR
 
-6. Fog Computing
-  - SEC
-  - Mobidata 2015 (Workshop) -- A Survey of Fog Computing: Concepts, Applications and Issues
+Fog Computing
+------
+1. SEC
+2. Mobidata 2015 (Workshop) -- A Survey of Fog Computing: Concepts, Applications and Issues.
 ⋅⋅⋅You can have properly indented par.
 
  
