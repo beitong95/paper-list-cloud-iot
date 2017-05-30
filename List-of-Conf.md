@@ -38,6 +38,14 @@ BigData
   1. Sigmod
   2. VLDB
   3. CIDR
+  99. Jason Mars Paper
+  
+Cloud and Machine Learning, AI, Voice, and others
+------
+  99. Papers
+    - IEEE Micro Top Picks 16, Hauswald et al, [SIRIUS IMPLICATIONS FOR FUTURE WAREHOUSE-SCALE COMPUTERS] (https://www.computer.org/cms/Computer.org/ComputingNow/issues/2016/08/mmi2016030042.pdf)
+    - ISCA 15, Hauswald et al, [DjiNN and Tonic: DNN as a service and its implications for future warehouse scale computers](http://dl.acm.org/citation.cfm?id=2749472)
+    
 
 Fog Computing
 ------
