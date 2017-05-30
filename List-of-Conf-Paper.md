@@ -38,13 +38,16 @@ BigData
   2. VLDB
   3. CIDR
   99. Papers
+    - Exdcuting Big Data Framework on Transient Resources (a.k.a spot?) -- similarities and differences.
+      - Eurosys 2017 -- Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters
+      - SoCC 16 -- `BigData processing + Resource Management` - [TR-Spark: Transient Computing for Big Data Analytics](http://dl.acm.org/citation.cfm?id=2987576&CFID=768649757&CFTOKEN=85015211)
+      - Eurosys 2017 --  `BigData processing + Resource Management` -- Proteus: agile ML elasticity through tiered reliability in dynamic resource markets
+      
     - OSDI 16 -- TensorFlow: A system for large-scale machine learning
-    - SoCC 16 -- `BigData processing + Resource Management` - [TR-Spark: Transient Computing for Big Data Analytics](http://dl.acm.org/citation.cfm?id=2987576&CFID=768649757&CFTOKEN=85015211)
   100. Candidates
     - SoCC 2016 -- [ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing](http://dl.acm.org/authorize?N12970)
     - SoCC 2016 -- [STYX: Stream Processing with Trustworthy Cloud-based Execution](http://dl.acm.org/authorize?N12971)
     - NSDI 17 -- CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics
-    - Eurosys 2017 --  `BigData processing + Resource Management` -- Proteus: agile ML elasticity through tiered reliability in dynamic resource markets
 
   
 Cloud and Machine Learning, AI, Voice, and others
