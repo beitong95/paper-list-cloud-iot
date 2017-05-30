@@ -36,7 +36,7 @@
 6. Fog Computing
   - SEC
   - Mobidata 2015 (Workshop) -- A Survey of Fog Computing: Concepts, Applications and Issues
-  ⋅⋅⋅You can have properly indented par
+⋅⋅⋅You can have properly indented par
 
  
  
