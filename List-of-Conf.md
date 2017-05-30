@@ -43,7 +43,7 @@ Fog Computing
 ------
   1. SEC
   2. Papers:
-    - Mobidata 2015 (Workshop) -- Yi et al [A Survey of Fog Computing: Concepts, Applications and Issues](http://dl.acm.org/citation.cfm?id=2757397)
+    - Mobidata 2015 (Workshop) -- Yi et al, [A Survey of Fog Computing: Concepts, Applications and Issues](http://dl.acm.org/citation.cfm?id=2757397)
 
     This paper describes.
 
@@ -53,5 +53,5 @@ Fog Computing
  
  
 99. Others
-  - JPDC -- 2015 -- [Big Data computing and clouds: Trends and future directions](http://www.sciencedirect.com/science/article/pii/S0743731514001452)
+  - JPDC 2015 -- Assunção  et al, [Big Data computing and clouds: Trends and future directions](http://www.sciencedirect.com/science/article/pii/S0743731514001452)
  
