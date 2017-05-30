@@ -42,7 +42,9 @@ BigData
 Fog Computing
 ------
   1. SEC
-  2. Papers:
+  2. IoTDI
+  3. Sensys/IPSN/Mobicom/Mobisys
+  99. Papers:
     - Mobidata 2015 (Workshop) -- Yi et al, [A Survey of Fog Computing: Concepts, Applications and Issues](http://dl.acm.org/citation.cfm?id=2757397)
     - ACM SIGCOMM CCR 2014 -- Vaquero et al, [Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing](http://dl.acm.org/citation.cfm?id=2677052)
 
