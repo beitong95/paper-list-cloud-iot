@@ -43,6 +43,7 @@ BigData
   100. Candidates
     - SoCC 2016 -- [ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing](http://dl.acm.org/authorize?N12970)
     - SoCC 2016 -- [STYX: Stream Processing with Trustworthy Cloud-based Execution](http://dl.acm.org/authorize?N12971)
+    - NSDI 17 -- CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics
   
 Cloud and Machine Learning, AI, Voice, and others
 ------
@@ -79,6 +80,7 @@ Cloud + GPU
 Cloud Functions
 -------------
 - NSDI' 17 -- Fouladi et al, (Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads)[https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf]
+- HotCloud 16 -- Serverless Computation with OpenLambda, https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson.pdf
 - arXiv -- Jonas et al, [Occupy the Cloud: Distributed Computing for the 99%](https://arxiv.org/abs/1702.04024) -- Seems like it was submitted to HotCloud and rejected, but worthwhile to read.
 - arXiv -- Snafu: Function-as-a-Service (FaaS) Runtime Design and Implementation, https://arxiv.org/pdf/1703.07562.pdf
 - IEEE T. Cloud -- Be Wary of the Economics of "Serverless" Cloud Computing, http://ieeexplore.ieee.org/document/7912239/
