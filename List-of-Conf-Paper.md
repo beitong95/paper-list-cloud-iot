@@ -3,7 +3,7 @@
 Cloud General
 ------
   1. SoCC (2016)
-  2. HotCloud (2017)
+  2. HotCloud (2017, 2016)
   3. IC2E
   4. CCGRID
   5. CLOUD, CLOUDCOM, UCC
@@ -11,12 +11,12 @@ Cloud General
 Systems
 ------
   1. NSDI (2017)
-  2. ATC
+  2. ATC (2016-do)
   3. Eurosys (2017)
-  4. Middleware
+  4. Middleware (2016)
   5. OSDI (2016)
   6. SOSP
-  7. SIGCOMM
+  7. SIGCOMM (2016)
   8. ASPLOS (20117)
   9. Sigmetric
   10. IMC
@@ -27,15 +27,14 @@ Web
   
 Distributed Systems/HPC
 ------
-  1. HPDC
+  1. HPDC 
   2. SC
   3. IPDPS/ICDCS?
   
 BigData
 ------
-
-  1. Sigmod
-  2. VLDB
+  1. Sigmod (2017)
+  2. VLDB (2017)
   3. CIDR
   99. Papers
     - Exdcuting Big Data Framework on Transient Resources (a.k.a spot?) -- similarities and differences.
@@ -48,6 +47,12 @@ BigData
     - SoCC 2016 -- [ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing](http://dl.acm.org/authorize?N12970)
     - SoCC 2016 -- [STYX: Stream Processing with Trustworthy Cloud-based Execution](http://dl.acm.org/authorize?N12971)
     - NSDI 17 -- [CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf)
+
+IoT
+-----
+  1. IoTDI
+  2. Sensys/IPSN/Mobicom/Mobisys
+
 
   
 Cloud and Machine Learning, AI, Voice, and others
@@ -62,15 +67,16 @@ Cloud and Machine Learning, AI, Voice, and others
     - SoCC 2016 -- [Optasia: A Relational Platform for Efficient Large-Scale Video Analytics](http://dl.acm.org/authorize?N12950)
     
 
-Fog Computing
+Fog Computing General
 ------
-  1. SEC
-  2. IoTDI
-  3. Sensys/IPSN/Mobicom/Mobisys
-  99. Papers:
-    - HotCloud '17 -- `Build Clouds with decommissioned mobile phones` -- [Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes](https://www.usenix.org/conference/hotcloud17/program/presentation/shahrad) -- not released yet.
+   - HotCloud '17 -- `Build Clouds with decommissioned mobile phones` -- [Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes](https://www.usenix.org/conference/hotcloud17/program/presentation/shahrad) -- not released yet.
     - Mobidata 2015 (Workshop) -- Yi et al, [A Survey of Fog Computing: Concepts, Applications and Issues](http://dl.acm.org/citation.cfm?id=2757397)
     - ACM SIGCOMM CCR 2014 -- Vaquero et al, [Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing](http://dl.acm.org/citation.cfm?id=2677052)
+
+
+Cloud-IoT -- Applications
+----------------------
+- IoTDI'17 -- [Where's The Bear?- Automating Wildlife Image Processing Using IoT and Edge Cloud Systems](http://dl.acm.org/citation.cfm?id=3054986)
 
 
 Resource Management with Containers
@@ -91,7 +97,10 @@ Cloud Functions
 - IEEE T. Cloud -- [Be Wary of the Economics of "Serverless" Cloud Computing](http://ieeexplore.ieee.org/document/7912239/)
 
 
-
+Database in Cloud
+-------------
+- Sigmod 2017 -- [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](http://dl.acm.org/citation.cfm?id=3056101)
+- Sigmod 2017 -- [Spanner: Becoming a SQL System](http://dl.acm.org/citation.cfm?id=3056103)
  
 99. Others
   - JPDC 2015 -- Assunção  et al, [Big Data computing and clouds: Trends and future directions](http://www.sciencedirect.com/science/article/pii/S0743731514001452)
