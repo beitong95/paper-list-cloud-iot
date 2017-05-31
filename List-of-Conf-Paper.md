@@ -1,6 +1,7 @@
 # List of Conferences
 # https://scholar.google.com/citations?hl=en&user=Wj7l5TsAAAAJ&view_op=list_works&sortby=pubdate
 # http://www-users.cselabs.umn.edu/classes/Spring-2017/csci8980/
+# https://courses.engr.illinois.edu/cs525/sp2017/sched.htm
 
 Cloud General
 ------
@@ -10,7 +11,7 @@ Cloud General
   4. IC2E
   5. CCGRID
   6. CLOUD, CLOUDCOM, UCC
-    
+
 Systems
 ------
   1. NSDI (2017, 2016, 2015, 2014, 2013)
@@ -24,17 +25,17 @@ Systems
   9. Sigmetric
   10. IMC
   11. HotMobile (2017)
-   
+
 Web
 ------
   1. WWW (2017)
-  
+
 Distributed Systems/HPC
 ------
-  1. HPDC 
+  1. HPDC
   2. SC
   3. IPDPS/ICDCS?
-  
+
 BigData
 ------
   1. Sigmod (2017)
@@ -45,7 +46,7 @@ BigData
       - Eurosys 2017 -- `BigData processing + resource management` - [Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters](http://dl.acm.org/citation.cfm?id=3064181)
       - SoCC 16 -- `BigData processing + Resource Management` - [TR-Spark: Transient Computing for Big Data Analytics](http://dl.acm.org/citation.cfm?id=2987576&CFID=768649757&CFTOKEN=85015211)
       - Eurosys 2017 --  `BigData processing + Resource Management` -- [Proteus: agile ML elasticity through tiered reliability in dynamic resource markets](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/Proteus.pdf)
-      
+
     - OSDI 16 -- TensorFlow: A system for large-scale machine learning
   100. Candidates
     - SoCC 2016 -- [ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing](http://dl.acm.org/authorize?N12970)
@@ -67,20 +68,23 @@ Cloud Vision
 - HotCloud 2014 -- [Academic Cloud Computing Research: Five Pitfalls and Five Opportunities](https://www.usenix.org/system/files/conference/hotcloud14/hotcloud14-barker.pdf)
 
 
-  
+
 Cloud and Machine Learning, AI, Voice, and others
 ------
+`Machine Learning`
+
+`AI`
   99. Papers
     - SoCC 16 -- `Cloud + AI` -- Watcharapichat et al, [Ako: Decentralised Deep Learning with Partial Gradient Exchange](http://dl.acm.org/authorize?N12952)
     - ASPLOS 16 -- CLOUD + AI + Edge -- , Kang et al, [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](http://dl.acm.org/citation.cfm?id=3037698)
     - IEEE Micro Top Picks 16, Hauswald et al, [SIRIUS IMPLICATIONS FOR FUTURE WAREHOUSE-SCALE COMPUTERS](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2016/08/mmi2016030042.pdf)
     - ISCA 15, Hauswald et al, [DjiNN and Tonic: DNN as a service and its implications for future warehouse scale computers](http://dl.acm.org/citation.cfm?id=2749472)
-    
+
   100. Candidates:
     - SoCC 2016 -- [Optasia: A Relational Platform for Efficient Large-Scale Video Analytics](http://dl.acm.org/authorize?N12950)
     - Large-Scale Machine Learning at Twitter, SIGMOD 2012
 
-    
+
 
 Fog/Edge Computing General
 ------
@@ -135,7 +139,7 @@ Resource Management with Containers
 
 Cloud + GPU/FPGA
 -------------
-1. HotCloud '17 -- Heterogeneous GPU reallocation 
+1. HotCloud '17 -- Heterogeneous GPU reallocation
 2. SoCC' 15 -- [MemcachedGPU: Scaling-up Scale-out Key-value Stores](http://dl.acm.org/citation.cfm?id=2806836&CFID=942941262&CFTOKEN=81517061)
 3. SoCC' 15 -- [dJay : Enabling High-density Multi-tenancy for Cloud Gaming Servers with Dynamic Cost-Benefit GPU Load Balancing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/djay_camera_ready_v2_acmdl.pdf)
 4. Eurosys '16 -- `cloud + GPU + machine learning` -- [GeePS: Scalable Deep Learning on Distributed GPUs with a GPU-specialized Parameter Server](http://dl.acm.org/citation.cfm?doid=2901318.2901323)
@@ -147,7 +151,7 @@ Cloud + GPU/FPGA
 
 
 
-  
+
 Cloud Functions
 -------------
 - NSDI' 17 -- [Fouladi et al, Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fou[ladi.pdf)
@@ -163,7 +167,6 @@ Database in Cloud
 - Sigmod 2017 -- [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](http://dl.acm.org/citation.cfm?id=3056101)
 - Sigmod 2017 -- [Spanner: Becoming a SQL System](http://dl.acm.org/citation.cfm?id=3056103)
 - SoCC 2015 -- `short paper` -- [Microsoft Azure SQL Database Telemetry](http://dl.acm.org/citation.cfm?id=2806845&CFID=942941262&CFTOKEN=81517061)
- 
+
 99. Others
   - JPDC 2015 -- Assunção  et al, [Big Data computing and clouds: Trends and future directions](http://www.sciencedirect.com/science/article/pii/S0743731514001452)
- 

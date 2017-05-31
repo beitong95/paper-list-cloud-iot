@@ -9,7 +9,9 @@ Cloud and BigData Processing
 - SoCC 2016 -- [ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing](http://dl.acm.org/authorize?N12970)
 - SoCC 2016 -- [STYX: Stream Processing with Trustworthy Cloud-based Execution](http://dl.acm.org/authorize?N12971)
 - NSDI 17 -- [CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf)
-
+- StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016
+- Spark vs MapReduce
+ - Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics, VLDB 2015
 IoT
 -----
   1. IoTDI (2017, 2016)
@@ -29,9 +31,11 @@ Cloud Vision
 Cloud and Machine Learning, AI, Voice, and others
 ------
 - OSDI 16 -- TensorFlow: A system for large-scale machine learning
+- SoCC 16 -- `Cloud + AI` -- Watcharapichat et al, [Ako: Decentralised Deep Learning with Partial Gradient Exchange](http://dl.acm.org/authorize?N12952)
+- SIGMOD 2015 -- Resource Elasticity for Large-Scale Machine Learning
 
   99. Papers
-    - SoCC 16 -- `Cloud + AI` -- Watcharapichat et al, [Ako: Decentralised Deep Learning with Partial Gradient Exchange](http://dl.acm.org/authorize?N12952)
+
     - ASPLOS 16 -- CLOUD + AI + Edge -- , Kang et al, [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](http://dl.acm.org/citation.cfm?id=3037698)
     - IEEE Micro Top Picks 16, Hauswald et al, [SIRIUS IMPLICATIONS FOR FUTURE WAREHOUSE-SCALE COMPUTERS](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2016/08/mmi2016030042.pdf)
     - ISCA 15, Hauswald et al, [DjiNN and Tonic: DNN as a service and its implications for future warehouse scale computers](http://dl.acm.org/citation.cfm?id=2749472)
