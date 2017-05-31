@@ -3,7 +3,7 @@ Cloud and BigData Processing
 ------------------
 `Exdcuting Big Data Framework on Transient Resources (a.k.a spot?) -- similarities and differences.`
   1. Yan et al, SoCC'16, <B>TR-Spark: Transient Computing for Big Data Analytics</B>, ([paper](http://dl.acm.org/citation.cfm?id=2987576&CFID=768649757&CFTOKEN=85015211))
-  2. Yang et al, Eurosys'17, <B>Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters</B>[(paper)(http://dl.acm.org/citation.cfm?id=3064181)]
+  2. Yang et al, Eurosys'17, <B>Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters</B>[[paper](http://dl.acm.org/citation.cfm?id=3064181)]
   3. Harlap et al, Eurosys 2017, <B>Proteus: agile ML elasticity through tiered reliability in dynamic resource markets</B>([paper](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/Proteus.pdf))
 
 - SoCC 2016 -- [ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing](http://dl.acm.org/authorize?N12970)
