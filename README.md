@@ -1,12 +1,11 @@
 
-Cloud and BigData
+Cloud and BigData Processing
 ------------------
 `Exdcuting Big Data Framework on Transient Resources (a.k.a spot?) -- similarities and differences.`
-  1. Yan et al, SoCC'16, [TR-Spark: Transient Computing for Big Data Analytics](http://dl.acm.org/citation.cfm?id=2987576&CFID=768649757&CFTOKEN=85015211)
+  1. Yan et al, SoCC'16, TR-Spark: Transient Computing for Big Data Analytics, ([paper])(http://dl.acm.org/citation.cfm?id=2987576&CFID=768649757&CFTOKEN=85015211)
   2. Yang et al, Eurosys'17, [Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters](http://dl.acm.org/citation.cfm?id=3064181)
   3. Harlap§ et al, Eurosys 2017, [Proteus: agile ML elasticity through tiered reliability in dynamic resource markets](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/Proteus.pdf)
 
-- OSDI 16 -- TensorFlow: A system for large-scale machine learning
 - SoCC 2016 -- [ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing](http://dl.acm.org/authorize?N12970)
 - SoCC 2016 -- [STYX: Stream Processing with Trustworthy Cloud-based Execution](http://dl.acm.org/authorize?N12971)
 - NSDI 17 -- [CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf)
@@ -29,6 +28,8 @@ Cloud Vision
 
 Cloud and Machine Learning, AI, Voice, and others
 ------
+- OSDI 16 -- TensorFlow: A system for large-scale machine learning
+
   99. Papers
     - SoCC 16 -- `Cloud + AI` -- Watcharapichat et al, [Ako: Decentralised Deep Learning with Partial Gradient Exchange](http://dl.acm.org/authorize?N12952)
     - ASPLOS 16 -- CLOUD + AI + Edge -- , Kang et al, [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](http://dl.acm.org/citation.cfm?id=3037698)
