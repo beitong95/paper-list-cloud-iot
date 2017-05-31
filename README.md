@@ -1,7 +1,7 @@
 
 Cloud and BigData
 ------------------
-- Exdcuting Big Data Framework on Transient Resources (a.k.a spot?) -- similarities and differences.
+- `Exdcuting Big Data Framework on Transient Resources (a.k.a spot?) -- similarities and differences.`
 - Eurosys 2017 -- `BigData processing + resource management` - [Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters](http://dl.acm.org/citation.cfm?id=3064181)
 - SoCC 16 -- `BigData processing + Resource Management` - [TR-Spark: Transient Computing for Big Data Analytics](http://dl.acm.org/citation.cfm?id=2987576&CFID=768649757&CFTOKEN=85015211)
 - Eurosys 2017 --  `BigData processing + Resource Management` -- [Proteus: agile ML elasticity through tiered reliability in dynamic resource markets](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/Proteus.pdf)
