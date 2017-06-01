@@ -46,7 +46,7 @@ Fog/Edge Computing
 -----------------------
 <B>`Its definition, vision, and challenges`</B>
 * Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing, ACM Sigcomm CCR 2014, (paper)
-* Fog Computing: Principles, Architectures, and Applications, arXiv, https://arxiv.org/abs/1601.02752, (paper)
+* Fog Computing: Principles, Architectures, and Applications, arXiv, ([paper](https://arxiv.org/abs/1601.02752))
 * Fog computing and its role in the internet of things, MCC 2012, (paper)
 * The Emergence of Edge Computing, IEEE Computer, 2017, (paper)
 * Edge-centric Computing: Vision and Challenges, ACM Sigcomm CCR 2015, (paper)
