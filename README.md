@@ -12,7 +12,7 @@
 <B>`Resource Management -- figuring out the best cloud configurations for analytics.`</B>
 * CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics, NSDI 2017, ([paper](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_alipourfard.pdf))
 
-<B>`New...`</B>
+<B>`New...Stream Processing Framework`</B>
 * ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing, SoCC 2016, ([paper](https://johann.schleier-smith.com/shared/102-Schleier-Smith.pdf)), ([slide](https://www.slideshare.net/jssm1th/restream-accelerating-backtesting-and-stream-replay-with-serialequivalent-parallel-processing))
 * STYX: Stream Processing with Trustworthy Cloud-based Execution, SoCC 2016, ([paper](https://www.cs.purdue.edu/homes/peugster/papers/STYX.pdf))
 * StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016, ([paper](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-lin-wei.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi16_slides_lin-wei.pdf))
