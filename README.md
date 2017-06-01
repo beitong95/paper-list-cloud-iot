@@ -49,7 +49,7 @@
 * Fog Computing: Principles, Architectures, and Applications, arXiv, ([paper](https://arxiv.org/abs/1601.02752))
 * Fog computing and its role in the Internet of Things, MCC 2012, ([paper](http://www.ce.uniroma2.it/courses/sdcc1415/progetti/fog_bonomi2012.pdf))
 * The Emergence of Edge Computing, IEEE Computer, 2017, ([paper](http://elijah.cs.cmu.edu/DOCS/satya-edge2016.pdf))
-* Edge-centric Computing: Vision and Challenges, ACM Sigcomm CCR 2015, ([http://members.unine.ch/etienne.riviere/publications/LoMoEp-CCR-15.pdf])
+* Edge-centric Computing: Vision and Challenges, ACM Sigcomm CCR 2015, ([Paper](http://members.unine.ch/etienne.riviere/publications/LoMoEp-CCR-15.pdf))
 * Edge Computing: Vision and Challenges -- IEEE Transactions on Internet of Things, 2016, ([paper](http://www.cs.wayne.edu/~weisong/papers/shi16-edge-computing.pdf))
 
 <B>`Creating Edge Infrastructure`</B>
