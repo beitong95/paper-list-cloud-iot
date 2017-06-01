@@ -83,33 +83,33 @@
 
 <B>`These are not a research paper, but worthwhile to read`</B>
 * The Economics of Microservices, IEEE Cloud Computing, 2016, ([paper](http://ieeexplore.ieee.org/document/7742218/))
-* Be Wary of the Economics of <B>Serverless</B> Cloud Computing, IEEE Cloud Computing 2017, (paper)
+* Be Wary of the Economics of "Serverless" Cloud Computing, IEEE Cloud Computing 2017, ([paper](http://ieeexplore.ieee.org/document/7912239/))
 
 #6 Cloud + Machine Learning, AI, and more.
 ----------------------------------------------
 <B>`TensorFlow -- this is super hot now.`</B>
-TensorFlow: A system for large-scale machine learning, OSDI 2016, (paper), (google tech report), (slide)
+TensorFlow: A system for large-scale machine learning, OSDI 2016, ([paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)), ([google tech report](http://download.tensorflow.org/paper/whitepaper2015.pdf))
 
 <B>`Elastic Resourec Management for Large Scale Machine Learning`</B>
-* Resource Elasticity for Large-Scale Machine Learning, SIGMOD 2015, (paper)
+* Resource Elasticity for Large-Scale Machine Learning, SIGMOD 2015, ([paper](http://researcher.ibm.com/researcher/files/us-ytian/p137-huang.pdf))
 
 <B>`ML Infrastructure at Industry`</B>
-* Large-Scale Machine Learning at Twitter, SIGMOD 2012, (paper)
+* Large-Scale Machine Learning at Twitter, SIGMOD 2012, ([paper](http://www.umiacs.umd.edu/~jimmylin/publications/Lin_Kolcz_SIGMOD2012.pdf))
 
 <B>`Deep Neural Net Cluster`</B>
-* Ako: Decentralised Deep Learning with Partial Gradient Exchange, SoCC 2016, (paper)
+* Ako: Decentralised Deep Learning with Partial Gradient Exchange, SoCC 2016, ([paper](https://lsds.doc.ic.ac.uk/sites/default/files/ako-socc16.pdf))
 
 <B>`Cloud + ML (DNN) + Edge Computing`</B>
-* Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge, ASPLOS 2016, (paper)
+* Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge, ASPLOS 2016, ([paper](http://web.eecs.umich.edu/~jahausw/publications/kang2017neurosurgeon.pdf))
 
 <B>`Cloud + Voice + GPU + FPGA`</B>
-* Sirius Implications for Future Warehouse-Scale Computers, IEEE Micro Top Picks 2016, (paper)
+* Sirius Implications for Future Warehouse-Scale Computers, IEEE Micro Top Picks 2016, ([paper](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2016/08/mmi2016030042.pdf))
 
 <B>`Deep Learning as a Service`</B>
-* DjiNN and Tonic: DNN as a Service and Its Implications for Future Warehouse Scale Computers, ISCA 2015, (paper)
+* DjiNN and Tonic: DNN as a Service and Its Implications for Future Warehouse Scale Computers, ISCA 2015, ([paper](http://web.eecs.umich.edu/~jahausw/publications/hauswald15djinn.pdf))
 
 <B>`Large Scale Video Analytics`</B>
-* Optasia: A Relational Platform for Efficient Large-Scale Video Analytics, SoCC 2016, (paper)
+* Optasia: A Relational Platform for Efficient Large-Scale Video Analytics, SoCC 2016, ([paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/optasia_socc16.pdf))
 
 
 #7 Cloud + GPU/FPGA
@@ -117,25 +117,25 @@ TensorFlow: A system for large-scale machine learning, OSDI 2016, (paper), (goog
 * Heterogeneous GPU reallocation, HotCloud 2017, (paper), (slide)
 
 <B>`Memcached on GPU`</B>
-* MemcachedGPU: Scaling-up Scale-out Key-value Stores, SoCC 2015, (paper)
+* MemcachedGPU: Scaling-up Scale-out Key-value Stores, SoCC 2015, ([paper](https://www.ece.ubc.ca/~aamodt/papers/hetherington.socc2015.pdf))
 
 <B>`Cloud GPU Processing for Game Servers`</B>
-* dJay : Enabling High-density Multi-tenancy for Cloud Gaming Servers with Dynamic Cost-Benefit GPU Load Balancing, SoCC 2015, (paper)
+* dJay: Enabling High-density Multi-tenancy for Cloud Gaming Servers with Dynamic Cost-Benefit GPU Load Balancing, SoCC 2015, ([paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/djay_camera_ready_v2_acmdl.pdf))
 
 <B>`Cloud + Deep Learning + GPU`</B>
-* GeePS: Scalable Deep Learning on Distributed GPUs with a GPU-specialized Parameter Server, Eurosys 2016, (paper)
+* GeePS: Scalable Deep Learning on Distributed GPUs with a GPU-specialized Parameter Server, Eurosys 2016, ([paper](http://www.pdl.cmu.edu/PDL-FTP/CloudComputing/GeePS-cui-eurosys16.pdf))
 
 <B>`Spark meets GPU lol!`</B>
-* SWAT: A Programmable, In-Memory, Distributed, High-Performance Computing Platform, HPDC 2016, (paper)
+* SWAT: A Programmable, In-Memory, Distributed, High-Performance Computing Platform, HPDC 2016, ([paper](http://dl.acm.org/citation.cfm?id=2907307))
 
 <B>`Spark meets FPGA lol!`</B>
-* When Apache Spark Meets FPGAs: A Case Study for Next-Generation DNA Sequencing Acceleration, HotCloud 2016, (paper)
+* When Apache Spark Meets FPGAs: A Case Study for Next-Generation DNA Sequencing Acceleration, HotCloud 2016, ([paper](https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_chen.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/hotcloud16_slides_chen.pdf))
 
 <B>`Deploying FPGA accelerators in data centers`</B>
-* Programming and Runtime Support to Blaze FPGA Accelerator Deployment at Datacenter Scale, SoCC 2016, (paper)
+* Programming and Runtime Support to Blaze FPGA Accelerator Deployment at Datacenter Scale, SoCC 2016, ([paper](http://dl.acm.org/citation.cfm?id=2987569))
 
 <B>`GPU Result Reuse`</B>
-* Supporting Dynamic GPU Computing Result Reuse in the Cloud, HotCloud 2015, (paper), (slide)
+* Supporting Dynamic GPU Computing Result Reuse in the Cloud, HotCloud 2015, ([paper](https://www.usenix.org/system/files/conference/hotcloud15/hotcloud15-zhou.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/hotcloud15_slides_zhou.pdf))
 
 <B>`GPU processing from a local cluster to clouds`</B>
-* Parallel patterns for heterogeneous CPU/GPU architectures: Structured parallelism from cluster to cloud, Future Generation Computer Systems, 2014, (paper)
+* Parallel patterns for heterogeneous CPU/GPU architectures: Structured parallelism from cluster to cloud, Future Generation Computer Systems, 2014, ([paper](http://www.sciencedirect.com/science/article/pii/S0167739X14000041))
