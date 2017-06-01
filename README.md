@@ -17,7 +17,7 @@
 * STYX: Stream Processing with Trustworthy Cloud-based Execution, SoCC 2016, (paper)
 * StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016, (paper), (slide)
 
-Cloud IoT
+#2 Cloud IoT
 -------------
 <B>`What it is and where it goes`</B>
 * The Cloud is Not Enough: Saving IoT from the Cloud, HotCloud 2015, (paper), (slide)
@@ -42,7 +42,7 @@ Cloud IoT
 * Just-in-time Provisioning for Cyber Foraging, Mobisys 2013, (paper)
 
 
-Fog/Edge Computing
+#3 Fog/Edge Computing
 -----------------------
 <B>`Its definition, vision, and challenges`</B>
 * Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing, ACM Sigcomm CCR 2014, (paper)
@@ -55,7 +55,7 @@ Fog/Edge Computing
 <B>`Creating Edge Infrastructure`</B>
 * Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes, HotCloud 2017, (paper), (slide)
 
-Mobile Cloud
+#4 Mobile Cloud
 --------------
 <B>`A Survey Paper`</B>
 * Mobile cloud computing: A Survey, Future Generation Computer Systems 2013, (paper)
@@ -66,7 +66,7 @@ Mobile Cloud
 <B>`Augmented execution of mobile applications on the clouds`</B>
 * CloneCloud: Elastic Execution between Mobile Device and Cloud, Eurosys 2011, (paper), (slide)
 
-Cloud Functions
+#5 Cloud Functions
 ----------------------
 <B>`Open Source version of Lambda`</B>
 * Serverless Computation with OpenLambda, In HotCloud 2016, (Paper), (Slide)
@@ -85,7 +85,7 @@ Cloud Functions
 * The Economics of Microservices, IEEE Cloud Computing, 2016, (paper)
 * Be Wary of the Economics of <B>`Serverless`</B> Cloud Computing, IEEE Cloud Computing 2017, (paper)
 
-Cloud + Machine Learning, AI, and more.
+#6 Cloud + Machine Learning, AI, and more.
 ----------------------------------------------
 <B>`TensorFlow -- this is super hot now.`</B>
 TensorFlow: A system for large-scale machine learning, OSDI 2016, (paper), (google tech report), (slide)
@@ -112,7 +112,7 @@ TensorFlow: A system for large-scale machine learning, OSDI 2016, (paper), (goog
 * Optasia: A Relational Platform for Efficient Large-Scale Video Analytics, SoCC 2016, (paper)
 
 
-Cloud + GPU/FPGA
+#7 Cloud + GPU/FPGA
 <B>`GPU resource management`</B>
 * Heterogeneous GPU reallocation, HotCloud 2017, (paper), (slide)
 
