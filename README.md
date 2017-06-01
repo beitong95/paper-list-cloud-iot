@@ -34,12 +34,12 @@ Cloud IoT
 * The Data Furnace: Heating Up with Cloud Computing, HotCloud 2011, (paper) (slide)
 
 <B>`Indoor/Outdoor Air Quality Sensing with Clouds`</B>
-AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone, Sensys 2014
-AirSense: An Intelligent Home-based Sensing System for Indoor Air Quality Analytics, Ubicomp 2016
+* AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone, Sensys 2014, (paper)
+* AirSense: An Intelligent Home-based Sensing System for Indoor Air Quality Analytics, Ubicomp 2016, (paper)
 
 <B>`The famous Cloudlet Applications`</B>
-Towards Wearable Cognitive Assistance, Mobisys 2014
-Just-in-time Provisioning for Cyber Foraging, Mobisys 2013
+* Towards Wearable Cognitive Assistance, Mobisys 2014, (paper)
+* Just-in-time Provisioning for Cyber Foraging, Mobisys 2013, (paper)
 
 
 Fog/Edge Computing
