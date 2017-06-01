@@ -9,13 +9,13 @@ Cloud and Big Data/Stream Analytics
 * Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters, Eurosys 2017, (paper)
 * Proteus: agile ML elasticity through tiered reliability in dynamic resource markets, Eurosys 2017 (paper)
 
-<B>`Resource Management`</B> -- figure out the best cloud configurations for analytics.
-NSDI 17 -- CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics
+<B>`Resource Management -- figuring out the best cloud configurations for analytics.`</B>
+* CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics, NSDI 2017, (paper), (slide)
 
 <B>`Newbies`</B>
-SoCC 2016 -- ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing
-SoCC 2016 -- STYX: Stream Processing with Trustworthy Cloud-based Execution
-StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016
+ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing, SoCC 2016, (paper)
+STYX: Stream Processing with Trustworthy Cloud-based Execution, SoCC 2016, (paper)
+StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016, (paper), (slide)
 
 Cloud IoT
 <B>`What it is and where it goes`</B>
