@@ -18,19 +18,20 @@ Cloud and Big Data/Stream Analytics
 * StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016, (paper), (slide)
 
 Cloud IoT
+-------------
 <B>`What it is and where it goes`</B>
-The Cloud is Not Enough: Saving IoT from the Cloud, HotCloud 2015
-Integration of Cloud computing and Internet of Things: A Survey, Future Generation Computer Systems 2016.
-Enabling the Internet of Things, IEEE Computer, 2015
-Internet of Things (IoT): A Vision, Architectural Elements, and Future Directions, Future Generation Computer Systems 2013
+* The Cloud is Not Enough: Saving IoT from the Cloud, HotCloud 2015, (paper), (slide)
+* Integration of Cloud computing and Internet of Things: A Survey, Future Generation Computer Systems 2016, (paper)
+* Enabling the Internet of Things, IEEE Computer, 2015, (paper)
+* Internet of Things (IoT): A Vision, Architectural Elements, and Future Directions, Future Generation Computer Systems 2013, (paper)
 
 <B>`Cloud IoT -- Infrastructure`</B>
-Beam: Ending Monolithic Applications for Connected Devices, In ATC 2016
+* Beam: Ending Monolithic Applications for Connected Devices, ATC 2016, (paper)
 
 <B>`Cloud IoT -- Applications #1`</B>
-Where's The Bear?- Automating Wildlife Image Processing Using IoT and Edge Cloud Systems, IoTDI 2017
-Experiences Creating a Framework for Smart Traffic Control using AWS IOT, UCC 2016
-The Data Furnace: Heating Up with Cloud Computing, HotCloud 2011
+* Where's The Bear?- Automating Wildlife Image Processing Using IoT and Edge Cloud Systems, IoTDI 2017, (paper)
+* Experiences Creating a Framework for Smart Traffic Control using AWS IOT, UCC 2016, (paper)
+* The Data Furnace: Heating Up with Cloud Computing, HotCloud 2011, (paper) (slide)
 
 <B>`Indoor/Outdoor Air Quality Sensing with Clouds`</B>
 AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone, Sensys 2014
