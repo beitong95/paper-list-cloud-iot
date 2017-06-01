@@ -1,4 +1,4 @@
-#1. Cloud and Big Data/Stream Analytics
+#1 Cloud and Big Data/Stream Analytics
 -----------------------------------
 
 <B>`Spark vs. MapReduce -- who's the winner?`</B>
