@@ -113,6 +113,7 @@ TensorFlow: A system for large-scale machine learning, OSDI 2016, ([paper](https
 
 
 #7 Cloud + GPU/FPGA
+---------------------------
 <B>`GPU resource management`</B>
 * Heterogeneous GPU reallocation, HotCloud 2017, (paper), (slide)
 
