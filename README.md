@@ -1,4 +1,4 @@
-1. Cloud and Big Data/Stream Analytics
+#1. Cloud and Big Data/Stream Analytics
 -----------------------------------
 
 <B>`Spark vs. MapReduce -- who's the winner?`</B>
@@ -17,7 +17,7 @@
 * STYX: Stream Processing with Trustworthy Cloud-based Execution, SoCC 2016, (paper)
 * StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016, (paper), (slide)
 
-2. Cloud IoT
+Cloud IoT
 -------------
 <B>`What it is and where it goes`</B>
 * The Cloud is Not Enough: Saving IoT from the Cloud, HotCloud 2015, (paper), (slide)
@@ -42,7 +42,7 @@
 * Just-in-time Provisioning for Cyber Foraging, Mobisys 2013, (paper)
 
 
-#1 Fog/Edge Computing
+Fog/Edge Computing
 -----------------------
 <B>`Its definition, vision, and challenges`</B>
 * Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing, ACM Sigcomm CCR 2014, (paper)
