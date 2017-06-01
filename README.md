@@ -5,28 +5,28 @@
 * Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics, VLDB 2015, ([paper](http://www.vldb.org/pvldb/vol8/p2110-shi.pdf))
 
 <B>`Resource Management for Big Data Framework -- Executing big data framework on transient instances (aka spot)`</B> -- same idea, different approaches.
-* TR-Spark: Transient Computing for Big Data Analytics, SoCC 2016, (paper)
-* Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters, Eurosys 2017, (paper)
-* Proteus: agile ML elasticity through tiered reliability in dynamic resource markets, Eurosys 2017 (paper)
+* TR-Spark: Transient Computing for Big Data Analytics, SoCC 2016, ([paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SOCC_2016.pdf))
+* Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters, Eurosys 2017, ([paper](http://dl.acm.org/citation.cfm?id=3064181))
+* Proteus: agile ML elasticity through tiered reliability in dynamic resource markets, Eurosys 2017 ([paper](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/Proteus.pdf))
 
 <B>`Resource Management -- figuring out the best cloud configurations for analytics.`</B>
-* CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics, NSDI 2017, (paper), (slide)
+* CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics, NSDI 2017, ([paper](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_alipourfard.pdf))
 
 <B>`Newbies`</B>
-* ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing, SoCC 2016, (paper)
-* STYX: Stream Processing with Trustworthy Cloud-based Execution, SoCC 2016, (paper)
-* StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016, (paper), (slide)
+* ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing, SoCC 2016, ([paper](https://johann.schleier-smith.com/shared/102-Schleier-Smith.pdf)), ([slide](https://www.slideshare.net/jssm1th/restream-accelerating-backtesting-and-stream-replay-with-serialequivalent-parallel-processing))
+* STYX: Stream Processing with Trustworthy Cloud-based Execution, SoCC 2016, ([paper](https://www.cs.purdue.edu/homes/peugster/papers/STYX.pdf))
+* StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016, ([paper](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-lin-wei.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi16_slides_lin-wei.pdf))
 
 #2 Cloud IoT
 -------------
 <B>`What it is and where it goes`</B>
-* The Cloud is Not Enough: Saving IoT from the Cloud, HotCloud 2015, (paper), (slide)
-* Integration of Cloud computing and Internet of Things: A Survey, Future Generation Computer Systems 2016, (paper)
-* Enabling the Internet of Things, IEEE Computer, 2015, (paper)
-* Internet of Things (IoT): A Vision, Architectural Elements, and Future Directions, Future Generation Computer Systems 2013, (paper)
+* The Cloud is Not Enough: Saving IoT from the Cloud, HotCloud 2015, ([paper](https://www.usenix.org/system/files/conference/hotcloud15/hotcloud15-zhang.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/hotcloud15_slides_zhang.pdf))
+* Integration of Cloud computing and Internet of Things: A Survey, Future Generation Computer Systems 2016, ([paper](http://www.sciencedirect.com/science/article/pii/S0167739X15003015))
+* Enabling the Internet of Things, IEEE Computer, 2015, ([paper](http://ieeexplore.ieee.org/document/7030240/))
+* Internet of Things (IoT): A Vision, Architectural Elements, and Future Directions, Future Generation Computer Systems 2013, ([paper](http://www.buyya.com/papers/Internet-of-Things-Vision-Future2013.pdf))
 
 <B>`Cloud IoT -- Infrastructure`</B>
-* Beam: Ending Monolithic Applications for Connected Devices, ATC 2016, (paper)
+* Beam: Ending Monolithic Applications for Connected Devices, ATC 2016, ([paper](https://www.usenix.org/system/files/conference/atc16/atc16_paper-shen.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_shen.pdf))
 
 <B>`Cloud IoT -- Applications #1`</B>
 * Where's The Bear?- Automating Wildlife Image Processing Using IoT and Edge Cloud Systems, IoTDI 2017, (paper)
