@@ -2,7 +2,7 @@
 -----------------------------------
 
 <B>`Spark vs. MapReduce -- who's the winner?`</B>
-* Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics, VLDB 2015
+* Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics, VLDB 2015, ([paper](http://www.vldb.org/pvldb/vol8/p2110-shi.pdf))
 
 <B>`Resource Management for Big Data Framework -- Executing big data framework on transient instances (aka spot)`</B> -- same idea, different approaches.
 * TR-Spark: Transient Computing for Big Data Analytics, SoCC 2016, (paper)
