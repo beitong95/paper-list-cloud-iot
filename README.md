@@ -43,13 +43,14 @@ Cloud IoT
 
 
 Fog/Edge Computing
-<B>`Its definition, vision, and challenges<B>`
-Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing, ACM Sigcomm CCR 2014
-Fog Computing: Principles, Architectures, and Applications, arXiv, https://arxiv.org/abs/1601.02752
-Fog computing and its role in the internet of things, MCC 2012
-The Emergence of Edge Computing, IEEE Computer, 2017
-Edge-centric Computing: Vision and Challenges, ACM Sigcomm CCR 2015
-Edge Computing: Vision and Challenges -- IEEE Transactions on Internet of Things, 2016
+-----------------------
+<B>`Its definition, vision, and challenges`</B>
+* Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing, ACM Sigcomm CCR 2014, (paper)
+* Fog Computing: Principles, Architectures, and Applications, arXiv, https://arxiv.org/abs/1601.02752, (paper)
+* Fog computing and its role in the internet of things, MCC 2012, (paper)
+* The Emergence of Edge Computing, IEEE Computer, 2017, (paper)
+* Edge-centric Computing: Vision and Challenges, ACM Sigcomm CCR 2015, (paper)
+* Edge Computing: Vision and Challenges -- IEEE Transactions on Internet of Things, 2016, (paper)
 
 <B>`Creating Edge Infrastructure`</B>
 Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes, HotCloud 2017
