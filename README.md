@@ -1,13 +1,13 @@
 Cloud and Big Data/Stream Analytics
 -----------------------------------
 
-<B>`Spark vs. MapReduce` -- who's the winner?</B>
+<B>`Spark vs. MapReduce -- who's the winner?`</B>
 * Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics, VLDB 2015
 
-<B>`Resource Management for Big Data Framework`</B> -- Executing big data framework on transient instances (aka spot) -- same idea, different approaches.
-Yan et al, SoCC'16, TR-Spark: Transient Computing for Big Data Analytics, (paper)
-Yang et al, Eurosys'17, Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters, (paper)
-Harlap et al, Eurosys 2017, Proteus: agile ML elasticity through tiered reliability in dynamic resource markets(paper)
+<B>`Resource Management for Big Data Framework -- Executing big data framework on transient instances (aka spot) -- same idea, different approaches.`</B>
+* TR-Spark: Transient Computing for Big Data Analytics, SoCC 2016, (paper)
+* Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters, Eurosys 2017, (paper)
+* Proteus: agile ML elasticity through tiered reliability in dynamic resource markets, Eurosys 2017 (paper)
 
 <B>`Resource Management`</B> -- figure out the best cloud configurations for analytics.
 NSDI 17 -- CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics
