@@ -1,4 +1,5 @@
 Cloud and Big Data/Stream Analytics
+-----------------------------------
 
 “Spark vs. MapReduce” – who’s the winner?
 Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics, VLDB 2015
