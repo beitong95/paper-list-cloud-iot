@@ -1,7 +1,7 @@
 Cloud and Big Data/Stream Analytics
 -----------------------------------
 
-`Spark vs. MapReduce -- who's the winner?`<BR>
+`Spark vs. MapReduce -- who's the winner?`
 * Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics, VLDB 2015
 
 `Resource Management for Big Data Framework` – Executing big data framework on transient instances (aka spot) – same idea, different approaches.
