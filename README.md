@@ -34,23 +34,23 @@
 * The Data Furnace: Heating Up with Cloud Computing, HotCloud 2011, ([paper](https://www.usenix.org/legacy/events/hotcloud11/tech/final_files/LiuGoraczko.pdf)), ([slide](https://www.usenix.org/legacy/events/hotcloud11/tech/slides/liu_j.pdf))
 
 <B>`Application #2 -- Indoor/Outdoor Air Quality Sensing with Clouds`</B>
-* AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone, Sensys 2014, (paper)
-* AirSense: An Intelligent Home-based Sensing System for Indoor Air Quality Analytics, Ubicomp 2016, (paper)
+* AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone, Sensys 2014, ([paper](http://dl.acm.org/citation.cfm?id=2668346))
+* AirSense: An Intelligent Home-based Sensing System for Indoor Air Quality Analytics, Ubicomp 2016, ([paper](http://www.egr.msu.edu/~fangbiyi/papers/2016_Ubicomp_AirSense.pdf))
 
 <B>`Application #3 -- The famous Cloudlet Applications`</B>
-* Towards Wearable Cognitive Assistance, Mobisys 2014, (paper)
-* Just-in-time Provisioning for Cyber Foraging, Mobisys 2013, (paper)
+* Towards Wearable Cognitive Assistance, Mobisys 2014, ([paper](http://krha.kr/data/pubs/mobisys203-kiryong.pdf)), ([paper](http://krha.kr/data/pubs/mobisys203-kiryong-slide.pdf))
+* Just-in-time Provisioning for Cyber Foraging, Mobisys 2013, ([paper](http://krha.kr/data/pubs/vmsynthesis2013.pdf)), ([slide](http://krha.kr/data/pubs/vmsynthesis2013-slide.pdf))
 
 
 #3 Fog/Edge Computing
 -----------------------
 <B>`Its definition, vision, and challenges`</B>
-* Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing, ACM Sigcomm CCR 2014, (paper)
+* Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing, ACM Sigcomm CCR 2014, ([paper](http://www.sigcomm.org/sites/default/files/ccr/papers/2014/October/0000000-0000003.pdf))
 * Fog Computing: Principles, Architectures, and Applications, arXiv, ([paper](https://arxiv.org/abs/1601.02752))
-* Fog computing and its role in the internet of things, MCC 2012, (paper)
-* The Emergence of Edge Computing, IEEE Computer, 2017, (paper)
-* Edge-centric Computing: Vision and Challenges, ACM Sigcomm CCR 2015, (paper)
-* Edge Computing: Vision and Challenges -- IEEE Transactions on Internet of Things, 2016, (paper)
+* Fog computing and its role in the Internet of Things, MCC 2012, ([paper](http://www.ce.uniroma2.it/courses/sdcc1415/progetti/fog_bonomi2012.pdf))
+* The Emergence of Edge Computing, IEEE Computer, 2017, ([paper](http://elijah.cs.cmu.edu/DOCS/satya-edge2016.pdf))
+* Edge-centric Computing: Vision and Challenges, ACM Sigcomm CCR 2015, ([http://members.unine.ch/etienne.riviere/publications/LoMoEp-CCR-15.pdf])
+* Edge Computing: Vision and Challenges -- IEEE Transactions on Internet of Things, 2016, ([paper](Edge Computing: Vision and Challenges))
 
 <B>`Creating Edge Infrastructure`</B>
 * Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes, HotCloud 2017, (paper), (slide)
@@ -58,32 +58,32 @@
 #4 Mobile Cloud
 --------------
 <B>`A Survey Paper`</B>
-* Mobile cloud computing: A Survey, Future Generation Computer Systems 2013, (paper)
+* Mobile cloud computing: A Survey, Future Generation Computer Systems 2013, ([paper](http://www.sciencedirect.com/science/article/pii/S0167739X12001318))
 
 <B>`Simplified development for mobile/cloud apps`</B>
 * Customizable and Extensible Deployment for Mobile/Cloud Applications, OSDI 2014, (paper), (slide)
 
 <B>`Augmented execution of mobile applications on the clouds`</B>
-* CloneCloud: Elastic Execution between Mobile Device and Cloud, Eurosys 2011, (paper), (slide)
+* CloneCloud: Elastic Execution between Mobile Device and Cloud, Eurosys 2011, ([paper](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zhang.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/osdi14_slides_zhang-irene.pdf))
 
 #5 Cloud Functions
 ----------------------
 <B>`Open Source version of Lambda`</B>
-* Serverless Computation with OpenLambda, In HotCloud 2016, (Paper), (Slide)
+* Serverless Computation with OpenLambda, In HotCloud 2016, ([Paper](https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson.pdf)), ([Slide](https://www.usenix.org/sites/default/files/conference/protected-files/hotcloud16_slides_hendrickson.pdf))
 
 <B>`General-purpose parallel computation on Cloud Function and its application`</B>
-* Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads, NSDI 2017, (Paper), (Slide)
+* Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads, NSDI 2017, ([Paper](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fouladi.pdf)), ([Slide](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_fouladi.pdf))
 
 <B>`This is the PyWren paper -- not officially published yet.`</B>
-* Occupy the Cloud: Distributed Computing for the 99%, arXiv 2017, (paper)
+* Occupy the Cloud: Distributed Computing for the 99%, arXiv 2017, ([paper](https://arxiv.org/abs/1702.04024))
 * [http://pywren.io/](http://pywren.io/)
 
 <B>`System Infrastructure for Cloud Function`</B>
-* Picocenter: Supporting long-lived, mostly-idle applications in cloud environments, In Eurosys 2016. (paper)
+* Picocenter: Supporting long-lived, mostly-idle applications in cloud environments, In Eurosys 2016. ([paper](https://users.cs.duke.edu/~tbenson/papers/EuroSYS16.pdf)), ([slide](http://www.ccs.neu.edu/home/liang/paper/Picocenter-EuroSys-16/picocenter.pdf))
 
 <B>`These are not a research paper, but worthwhile to read`</B>
-* The Economics of Microservices, IEEE Cloud Computing, 2016, (paper)
-* Be Wary of the Economics of <B>`Serverless`</B> Cloud Computing, IEEE Cloud Computing 2017, (paper)
+* The Economics of Microservices, IEEE Cloud Computing, 2016, ([paper](http://ieeexplore.ieee.org/document/7742218/))
+* Be Wary of the Economics of <B>Serverless</B> Cloud Computing, IEEE Cloud Computing 2017, (paper)
 
 #6 Cloud + Machine Learning, AI, and more.
 ----------------------------------------------
