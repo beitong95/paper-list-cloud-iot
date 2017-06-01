@@ -61,10 +61,10 @@
 * Mobile cloud computing: A Survey, Future Generation Computer Systems 2013, ([paper](http://www.sciencedirect.com/science/article/pii/S0167739X12001318))
 
 <B>`Simplified development for mobile/cloud apps`</B>
-* Customizable and Extensible Deployment for Mobile/Cloud Applications, OSDI 2014, (paper), (slide)
+* Customizable and Extensible Deployment for Mobile/Cloud Applications, OSDI 2014, ([paper](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zhang.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/osdi14_slides_zhang-irene.pdf))
 
 <B>`Augmented execution of mobile applications on the clouds`</B>
-* CloneCloud: Elastic Execution between Mobile Device and Cloud, Eurosys 2011, ([paper](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zhang.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/osdi14_slides_zhang-irene.pdf))
+* CloneCloud: Elastic Execution between Mobile Device and Cloud, Eurosys 2011, ([Paper](http://dl.acm.org/citation.cfm?id=1966473)), ([Slide](http://www.eecs.umich.edu/courses/eecs589/notes/fall11/CloneCloud-Eurosys2011-P.pdf))
 
 #5 Cloud Functions
 ----------------------
