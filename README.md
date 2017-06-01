@@ -29,9 +29,9 @@
 * Beam: Ending Monolithic Applications for Connected Devices, ATC 2016, ([paper](https://www.usenix.org/system/files/conference/atc16/atc16_paper-shen.pdf)), ([slide](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_shen.pdf))
 
 <B>`Cloud IoT -- Applications #1`</B>
-* Where's The Bear?- Automating Wildlife Image Processing Using IoT and Edge Cloud Systems, IoTDI 2017, (paper)
-* Experiences Creating a Framework for Smart Traffic Control using AWS IOT, UCC 2016, (paper)
-* The Data Furnace: Heating Up with Cloud Computing, HotCloud 2011, (paper) (slide)
+* Where's The Bear?- Automating Wildlife Image Processing Using IoT and Edge Cloud Systems, IoTDI 2017, ([paper](http://www.cs.ucsb.edu/~ckrintz/papers/iotdi17.pdf)), ([slide](http://www.cs.ucsb.edu/~ckrintz/IOTDI17-WTB.pdf))
+* Experiences Creating a Framework for Smart Traffic Control using AWS IOT, UCC 2016, ([paper](http://martyhumphrey.info/pdf/Tarneberg_aws_iot_UCC2016.pdf))
+* The Data Furnace: Heating Up with Cloud Computing, HotCloud 2011, ([paper](https://www.usenix.org/legacy/events/hotcloud11/tech/final_files/LiuGoraczko.pdf)), ([slide](https://www.usenix.org/legacy/events/hotcloud11/tech/slides/liu_j.pdf))
 
 <B>`Application #2 -- Indoor/Outdoor Air Quality Sensing with Clouds`</B>
 * AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone, Sensys 2014, (paper)
