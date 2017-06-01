@@ -88,7 +88,7 @@
 #6 Cloud + Machine Learning, AI, and more.
 ----------------------------------------------
 <B>`TensorFlow -- this is super hot now.`</B>
-TensorFlow: A system for large-scale machine learning, OSDI 2016, ([paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)), ([google tech report](http://download.tensorflow.org/paper/whitepaper2015.pdf))
+* TensorFlow: A system for large-scale machine learning, OSDI 2016, ([paper](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)), ([google tech report](http://download.tensorflow.org/paper/whitepaper2015.pdf))
 
 <B>`Elastic Resourec Management for Large Scale Machine Learning`</B>
 * Resource Elasticity for Large-Scale Machine Learning, SIGMOD 2015, ([paper](http://researcher.ibm.com/researcher/files/us-ytian/p137-huang.pdf))
