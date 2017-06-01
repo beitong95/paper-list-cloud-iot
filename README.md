@@ -53,35 +53,40 @@ Fog/Edge Computing
 * Edge Computing: Vision and Challenges -- IEEE Transactions on Internet of Things, 2016, (paper)
 
 <B>`Creating Edge Infrastructure`</B>
-Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes, HotCloud 2017
+* Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes, HotCloud 2017, (paper), (slide)
 
 Mobile Cloud
+--------------
 <B>`A Survey Paper`</B>
-Mobile cloud computing: A Survey, Future Generation Computer Systems 2013
+* Mobile cloud computing: A Survey, Future Generation Computer Systems 2013, (paper)
 
 <B>`Simplified development for mobile/cloud apps`</B>
-Customizable and Extensible Deployment for Mobile/Cloud Applications, OSDI 2014
+* Customizable and Extensible Deployment for Mobile/Cloud Applications, OSDI 2014, (paper), (slide)
 
 <B>`Augmented execution of mobile applications on the clouds`</B>
-CloneCloud: Elastic Execution between Mobile Device and Cloud, Eurosys 2011
+* CloneCloud: Elastic Execution between Mobile Device and Cloud, Eurosys 2011, (paper), (slide)
 
 Cloud Functions
-
+----------------------
 <B>`Open Source version of Lambda`</B>
-Serverless Computation with OpenLambda, In HotCloud 2016
+* Serverless Computation with OpenLambda, In HotCloud 2016, (Paper), (Slide)
+
 <B>`General-purpose parallel computation on Cloud Function and its application`</B>
-Fouladi et al, Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads, NSDI 2017
+* Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads, NSDI 2017, (Paper), (Slide)
+
 <B>`This is the PyWren paper -- not officially published yet.`</B>
-Occupy the Cloud: Distributed Computing for the 99%, arXiv 2017
-http://pywren.io/
+* Occupy the Cloud: Distributed Computing for the 99%, arXiv 2017, (paper)
+* [http://pywren.io/](http://pywren.io/)
+
 <B>`System Infrastructure for Cloud Function`</B>
-Picocenter: Supporting long-lived, mostly-idle applications in cloud environments, In Eurosys 2016.
+* Picocenter: Supporting long-lived, mostly-idle applications in cloud environments, In Eurosys 2016. (paper)
+
 <B>`These are not a research paper, but worthwhile to read`</B>
-The Economics of Microservices, IEEE Cloud Computing, 2016
-Be Wary of the Economics of <B>`Serverless`</B> Cloud Computing, IEEE Cloud Computing 2017
+* The Economics of Microservices, IEEE Cloud Computing, 2016, (paper)
+* Be Wary of the Economics of <B>`Serverless`</B> Cloud Computing, IEEE Cloud Computing 2017, (paper)
 
 Cloud + Machine Learning, AI, and more.
-
+----------------------------------------------
 <B>`TensorFlow -- this is super hot now.`</B>
 OSDI 16 -- TensorFlow: A system for large-scale machine learning, (paper), (slide), and (google tech report)
 
