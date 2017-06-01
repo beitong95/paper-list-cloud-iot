@@ -1,132 +1,132 @@
+Cloud and Big Data/Stream Analytics
 
-Cloud and BigData Processing
-------------------
-`Exdcuting Big Data Framework on Transient Resources (a.k.a spot?) -- similarities and differences.`
-  1. Yan et al, SoCC'16, <B>TR-Spark: Transient Computing for Big Data Analytics</B>, ([paper](http://dl.acm.org/citation.cfm?id=2987576&CFID=768649757&CFTOKEN=85015211))
-  2. Yang et al, Eurosys'17, <B>Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters</B>, ([paper](http://dl.acm.org/citation.cfm?id=3064181))
-  3. Harlap et al, Eurosys 2017, <B>Proteus: agile ML elasticity through tiered reliability in dynamic resource markets</B>([paper](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/Proteus.pdf))
+“Spark vs. MapReduce” – who’s the winner?
+Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics, VLDB 2015
 
-- SoCC 2016 -- [ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing](http://dl.acm.org/authorize?N12970)
-- SoCC 2016 -- [STYX: Stream Processing with Trustworthy Cloud-based Execution](http://dl.acm.org/authorize?N12971)
-- NSDI 17 -- [CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-alipourfard.pdf)
-- StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016
-- Spark vs MapReduce
- - Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics, VLDB 2015
-IoT
------
-  1. IoTDI (2017, 2016)
-  2. Sensys  (2016, 2015, 2014)
-  3. IPSN (2017, 2016, 2015)  
-  4. Mobicom (2016)
-  5. Mobisys (2016)
-  6. Ubicomp (2016)
-  7. ICCPS (2017)
+“Resource Management for Big Data Framework” – Executing big data framework on transient instances (aka spot) – same idea, different approaches.
+Yan et al, SoCC'16, TR-Spark: Transient Computing for Big Data Analytics, (paper)
+Yang et al, Eurosys'17, Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters, (paper)
+Harlap et al, Eurosys 2017, Proteus: agile ML elasticity through tiered reliability in dynamic resource markets(paper)
 
-Cloud Vision
--------
-- HotCloud 2014 -- [Academic Cloud Computing Research: Five Pitfalls and Five Opportunities](https://www.usenix.org/system/files/conference/hotcloud14/hotcloud14-barker.pdf)
+“Resource Management” – figure out the best cloud configurations for analytics.
+NSDI 17 -- CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics
 
+“Newbies”
+SoCC 2016 -- ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing
+SoCC 2016 -- STYX: Stream Processing with Trustworthy Cloud-based Execution
+StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016
 
+Cloud IoT
+“What it is and where it goes”
+The Cloud is Not Enough: Saving IoT from the Cloud, HotCloud 2015
+Integration of Cloud computing and Internet of Things: A Survey, Future Generation Computer Systems 2016.
+Enabling the Internet of Things, IEEE Computer, 2015
+Internet of Things (IoT): A Vision, Architectural Elements, and Future Directions, Future Generation Computer Systems 2013
 
-Cloud and Machine Learning, AI, Voice, and others
-------
-- OSDI 16 -- TensorFlow: A system for large-scale machine learning
-- SoCC 16 -- `Cloud + AI` -- Watcharapichat et al, [Ako: Decentralised Deep Learning with Partial Gradient Exchange](http://dl.acm.org/authorize?N12952)
-- SIGMOD 2015 -- Resource Elasticity for Large-Scale Machine Learning
+“Cloud IoT – Infrastructure”
+Beam: Ending Monolithic Applications for Connected Devices, In ATC 2016
 
-  99. Papers
+“Cloud IoT – Applications #1”
+Where's The Bear?- Automating Wildlife Image Processing Using IoT and Edge Cloud Systems, IoTDI 2017
+Experiences Creating a Framework for Smart Traffic Control using AWS IOT, UCC 2016
+The Data Furnace: Heating Up with Cloud Computing, HotCloud 2011
 
-    - ASPLOS 16 -- CLOUD + AI + Edge -- , Kang et al, [Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge](http://dl.acm.org/citation.cfm?id=3037698)
-    - IEEE Micro Top Picks 16, Hauswald et al, [SIRIUS IMPLICATIONS FOR FUTURE WAREHOUSE-SCALE COMPUTERS](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2016/08/mmi2016030042.pdf)
-    - ISCA 15, Hauswald et al, [DjiNN and Tonic: DNN as a service and its implications for future warehouse scale computers](http://dl.acm.org/citation.cfm?id=2749472)
+“Indoor/Outdoor Air Quality Sensing with Clouds”
+AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone, Sensys 2014
+AirSense: An Intelligent Home-based Sensing System for Indoor Air Quality Analytics, Ubicomp 2016
 
-  100. Candidates:
-    - SoCC 2016 -- [Optasia: A Relational Platform for Efficient Large-Scale Video Analytics](http://dl.acm.org/authorize?N12950)
-    - Large-Scale Machine Learning at Twitter, SIGMOD 2012
+“The famous Cloudlet Applications”
+Towards Wearable Cognitive Assistance, Mobisys 2014
+Just-in-time Provisioning for Cyber Foraging, Mobisys 2013
 
 
+Fog/Edge Computing
+“Its definition, vision, and challenges“
+Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing, ACM Sigcomm CCR 2014
+Fog Computing: Principles, Architectures, and Applications, arXiv, https://arxiv.org/abs/1601.02752
+Fog computing and its role in the internet of things, MCC 2012
+The Emergence of Edge Computing, IEEE Computer, 2017
+Edge-centric Computing: Vision and Challenges, ACM Sigcomm CCR 2015
+Edge Computing: Vision and Challenges -- IEEE Transactions on Internet of Things, 2016
 
-Fog/Edge Computing General
-------
-   - HotCloud '17 -- `Build Clouds with decommissioned mobile phones` -- [Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes](https://www.usenix.org/conference/hotcloud17/program/presentation/shahrad) -- not released yet.
-    - ACM SIGCOMM CCR 2014 -- Vaquero et al, [Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing](http://dl.acm.org/citation.cfm?id=2677052)
-    - The Emergence of Edge Computing, M. Satyanarayanan, Computer, vol. 50, no. 1, Jan. 2017
-    - Fog Computing: Principles, Architectures, and Applications, arXiv, https://arxiv.org/abs/1601.02752
-    - Edge-centric Computing: Vision and Challenges, CCR 2015
-    - Fog computing and its role in the internet of things, MCC 2012
-    - Edge Computing: Vision and Challenges -- IEEE Transactions on IoT, 2016
-
-
-
-
-
-
-Cloud-IoT -- Applications
-----------------------
-- IoTDI'17 -- [Where's The Bear?- Automating Wildlife Image Processing Using IoT and Edge Cloud Systems](http://dl.acm.org/citation.cfm?id=3054986)
-- UCC'16 -- [Experiences Creating a Framework for Smart Traffic Control using AWS IOT](http://martyhumphrey.info/pdf/Tarneberg_aws_iot_UCC2016.pdf)
-- HotCloud `'11 -- [The Data Furnace: Heating Up with Cloud Computing](https://www.usenix.org/legacy/events/hotcloud11/tech/final_files/LiuGoraczko.pdf)
-- Mobisys '14 -- `Cloudlet + Google Glas + Cloudcomputing` -- [Towards Wearable Cognitive Assistance](http://dl.acm.org/citation.cfm?id=2594383)
-- Mobisys '13 -- Just-in-time provisioning for cyber foraging
-- `Indoor/Outdoor Air Quality Sensing`
-  - Sensys '14 -- [AirCloud: A Cloud-based Air-Quality Monitoring System for Everyone](http://dl.acm.org/citation.cfm?id=2668346)
-  - Ubicom '16 -- [AirSense: An Intelligent Home-based Sensing System for Indoor Air Quality Analytics](http://dl.acm.org/citation.cfm?id=2971720)
-
-Cloud-IoT -- Concept, Research Issues, and Vision
-- HotCloud 2015 - [The Cloud is Not Enough: Saving IoT from the Cloud](https://www.usenix.org/system/files/conference/hotcloud15/hotcloud15-zhang.pdf)
-- Internet of Things (IoT): A vision, architectural elements, and future directions, FGCS, 2013
-- Enabling the Internet of Things, IEEE Computer 2015
-- Integration of Cloud computing and Internet of Things: A survey, -- FGCS 2016
-
-
-Cloud-Iot -- Infrastructure
--------------------------
-- ATC 2016 -- [Beam: Ending Monolithic Applications for Connected Devices](https://www.usenix.org/system/files/conference/atc16/atc16_paper-shen.pdf)
-
+“Creating Edge Infrastructure”
+Towards Deploying Decommissioned Mobile Devices as Cheap Energy-Efficient Compute Nodes, HotCloud 2017
 
 Mobile Cloud
--------------------------
-- Eurosys 2015 -- [Simba: Tunable End-to-End Data Consistency for Mobile Apps](http://dl.acm.org/citation.cfm?id=2741974)
-- OSDI 2014 -- [Customizable and Extensible Deployment for Mobile/Cloud Applications](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zhang.pdf)
-- Mobile cloud computing: A survey, FGCS
-- CloneCloud: elastic execution between mobile device and cloud, Eurosys 2011
+“A Survey Paper”
+Mobile cloud computing: A Survey, Future Generation Computer Systems 2013
 
+“Simplified development for mobile/cloud apps”
+Customizable and Extensible Deployment for Mobile/Cloud Applications, OSDI 2014
 
-Resource Management with Containers
--------------
-1. Papers
-  - HotCloud '17 -- Paracloud: Bringing Application Insight into Cloud Operations -- not PDF released yet.
-
-Cloud + GPU/FPGA
--------------
-1. HotCloud '17 -- Heterogeneous GPU reallocation
-2. SoCC' 15 -- [MemcachedGPU: Scaling-up Scale-out Key-value Stores](http://dl.acm.org/citation.cfm?id=2806836&CFID=942941262&CFTOKEN=81517061)
-3. SoCC' 15 -- [dJay : Enabling High-density Multi-tenancy for Cloud Gaming Servers with Dynamic Cost-Benefit GPU Load Balancing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/djay_camera_ready_v2_acmdl.pdf)
-4. Eurosys '16 -- `cloud + GPU + machine learning` -- [GeePS: Scalable Deep Learning on Distributed GPUs with a GPU-specialized Parameter Server](http://dl.acm.org/citation.cfm?doid=2901318.2901323)
-6. Parallel patterns for heterogeneous CPU/GPU architectures: Structured parallelism from cluster to cloud, FGCS, 2014
-7. When Apache Spark Meets FPGAs: A Case Study for Next-Generation DNA Sequencing Acceleration, HotCloud 2016
-8. SWAT: A Programmable, In-Memory, Distributed, High-Performance Computing Platform, HPDC 2016 -- Spark Meets GPU
-9. Programming and Runtime Support to Blaze FPGA Accelerator Deployment at Datacenter Scale -- SoCc 2016
-10. Supporting Dynamic GPU Computing Result Reuse in the Cloud -- Hotcloud 2015
-
-
-
+“Augmented execution of mobile applications on the clouds”
+CloneCloud: Elastic Execution between Mobile Device and Cloud, Eurosys 2011
 
 Cloud Functions
--------------
-- NSDI' 17 -- [Fouladi et al, Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-fou[ladi.pdf)
-- HotCloud 16 -- Serverless Computation with OpenLambda](https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_hendrickson.pdf)
-- Eurosys' 2016 -- `Cloud Function Infrastructure` -- [Picocenter: Supporting long-lived, mostly-idle applications in cloud environments](http://dl.acm.org/citation.cfm?id=2901345)
-- arXiv -- Jonas et al, [Occupy the Cloud: Distributed Computing for the 99%](https://arxiv.org/abs/1702.04024) -- Seems like it was submitted to HotCloud and rejected, but worthwhile to read.
-- arXiv -- [Snafu: Function-as-a-Service (FaaS) Runtime Design and Implementation](https://arxiv.org/pdf/1703.07562.pdf)
-- IEEE T. Cloud -- [Be Wary of the Economics of "Serverless" Cloud Computing](http://ieeexplore.ieee.org/document/7912239/)
+
+“Open Source version of Lambda”
+Serverless Computation with OpenLambda, In HotCloud 2016
+“General-purpose parallel computation on Cloud Function and its application”
+Fouladi et al, Encoding, Fast and Slow: Low-Latency Video Processing Using Thousands of Tiny Threads, NSDI 2017
+“This is the PyWren paper – not officially published yet.”
+Occupy the Cloud: Distributed Computing for the 99%, arXiv 2017
+http://pywren.io/
+“System Infrastructure for Cloud Function”
+Picocenter: Supporting long-lived, mostly-idle applications in cloud environments, In Eurosys 2016.
+“These are not a research paper, but worthwhile to read”
+The Economics of Microservices, IEEE Cloud Computing, 2016
+Be Wary of the Economics of “Serverless” Cloud Computing, IEEE Cloud Computing 2017
+
+Cloud + Machine Learning, AI, and more.
+
+“TensorFlow – this is super hot now.”
+OSDI 16 -- TensorFlow: A system for large-scale machine learning, (paper), (slide), and (google tech report)
+
+“Elastic Resourec Management for Large Scale Machine Learning”
+SIGMOD 2015 -- Resource Elasticity for Large-Scale Machine Learning
+
+“ML Infrastructure at Industry”
+Large-Scale Machine Learning at Twitter, SIGMOD 2012
+
+“Deep Neural Net Cluster”
+Watcharapichat et al, Ako: Decentralised Deep Learning with Partial Gradient Exchange, In SoCC 2016
+
+“Cloud + ML (DNN) + Edge Computing”
+Kang et al, Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge, In ASPLOS 2016
+
+“Cloud + Voice + GPU + FPGA”
+Sirius Implications for Future Warehouse-Scale Computers, IEEE Micro Top Pics, 2016
+
+“Deep Learning as a Service”
+DjiNN and Tonic: DNN as a Service and Its Implications for Future Warehouse Scale Computers, In ISCA 2015
+
+“Large Scale Video Analytics”
+Optasia: A Relational Platform for Efficient Large-Scale Video Analytics, In SoCC 2016
 
 
-Database in Cloud
--------------
-- Sigmod 2017 -- [Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](http://dl.acm.org/citation.cfm?id=3056101)
-- Sigmod 2017 -- [Spanner: Becoming a SQL System](http://dl.acm.org/citation.cfm?id=3056103)
-- SoCC 2015 -- `short paper` -- [Microsoft Azure SQL Database Telemetry](http://dl.acm.org/citation.cfm?id=2806845&CFID=942941262&CFTOKEN=81517061)
+Cloud + GPU/FPGA
+“GPU resource management”
+Heterogeneous GPU reallocation, HotCloud 2017
 
-99. Others
-  - JPDC 2015 -- Assunção  et al, [Big Data computing and clouds: Trends and future directions](http://www.sciencedirect.com/science/article/pii/S0743731514001452)
+“Memcached on GPU”
+MemcachedGPU: Scaling-up Scale-out Key-value Stores, SoCC 2015
+
+“Cloud GPU Processing for Game Servers”
+dJay : Enabling High-density Multi-tenancy for Cloud Gaming Servers with Dynamic Cost-Benefit GPU Load Balancing, SoCC 2015
+
+“Cloud + Deep Learning + GPU”
+GeePS: Scalable Deep Learning on Distributed GPUs with a GPU-specialized Parameter Server, Eurosys 2016
+
+“Spark meets GPU lol!”
+SWAT: A Programmable, In-Memory, Distributed, High-Performance Computing Platform, HPDC 2016
+“Spark meets FPGA lol!”
+When Apache Spark Meets FPGAs: A Case Study for Next-Generation DNA Sequencing Acceleration, HotCloud 2016
+
+“Deploying FPGA accelerators in data centers”
+Programming and Runtime Support to Blaze FPGA Accelerator Deployment at Datacenter Scale, SoCC 2016
+
+"GPU Result Reuse"
+Supporting Dynamic GPU Computing Result Reuse in the Cloud, HotCloud 2015
+
+"GPU processing from a local cluster to clouds"
+Parallel patterns for heterogeneous CPU/GPU architectures: Structured parallelism from cluster to cloud, Future Generation Computer Systems, 2014
