@@ -13,9 +13,9 @@ Cloud and Big Data/Stream Analytics
 * CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics, NSDI 2017, (paper), (slide)
 
 <B>`Newbies`</B>
-ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing, SoCC 2016, (paper)
-STYX: Stream Processing with Trustworthy Cloud-based Execution, SoCC 2016, (paper)
-StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016, (paper), (slide)
+* ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing, SoCC 2016, (paper)
+* STYX: Stream Processing with Trustworthy Cloud-based Execution, SoCC 2016, (paper)
+* StreamScope: Continuous Reliable Distributed Processing of Big Data Streams, NSDI 2016, (paper), (slide)
 
 Cloud IoT
 <B>`What it is and where it goes`</B>
