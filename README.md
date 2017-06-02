@@ -5,8 +5,8 @@
 * Clash of the Titans: MapReduce vs. Spark for Large Scale Data Analytics, VLDB 2015, ([paper](http://www.vldb.org/pvldb/vol8/p2110-shi.pdf))
 
 <B>`Resource Management for Big Data Framework -- Executing big data framework on transient instances (aka spot or instable resources)`</B> -- Generally the same problem statement.
-* TR-Spark: Transient Computing for Big Data Analytics, SoCC 2016, ([paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SOCC_2016.pdf)) -- `Lineage Aware Checkpointing`
-* Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters, Eurosys 2017, ([paper](http://dl.acm.org/citation.cfm?id=3064181))
+* `Checkpointing` -- TR-Spark: Transient Computing for Big Data Analytics, SoCC 2016, ([paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SOCC_2016.pdf))
+* `Bidding` -- Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters, Eurosys 2017, ([paper](http://dl.acm.org/citation.cfm?id=3064181))
 * Proteus: agile ML elasticity through tiered reliability in dynamic resource markets, Eurosys 2017 ([paper](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/Proteus.pdf))
 
 <B>`Resource Management -- figuring out the best cloud configurations for analytics.`</B>
